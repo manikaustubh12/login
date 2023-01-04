@@ -2,9 +2,9 @@
     background-image: url('beach.jpg');
 } */
 .c1{
-    background-image: url('beach.jpg');
+            background-image: url('https://www.w3schools.com/howto/img_forest.jpg');
             background-repeat: no-repeat;
-            background-color: brown;
+            /* background-color: brown; */
             /* width: 50%;
             height: 70%; */
             /* text-align: center; */
