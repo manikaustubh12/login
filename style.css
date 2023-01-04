@@ -1,0 +1,26 @@
+/* .c1{
+    background-image: url('beach.jpg');
+} */
+c1{
+    background-image: url('beach.jpg');
+    background-color: aquamarine;
+    text-align: center;
+    margin: 2px;
+    padding: 50px;
+}
+
+body{
+    background-image: url('beach.jpg');
+    background-color: aquamarine;
+    text-align: center;
+    margin: 2px;
+    padding: 50px;
+}
+.form{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    font-family: cursive;
+    border-color: brown;
+    background-image: url('p4.jpg');
+}
