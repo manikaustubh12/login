@@ -1,12 +1,22 @@
 /* .c1{
     background-image: url('beach.jpg');
 } */
-c1{
+.c1{
     background-image: url('beach.jpg');
-    background-color: aquamarine;
-    text-align: center;
-    margin: 2px;
-    padding: 50px;
+            background-repeat: no-repeat;
+            background-color: brown;
+            /* width: 50%;
+            height: 70%; */
+            /* text-align: center; */
+            width: 310px;
+            height: 350px;
+            margin: auto;
+            margin-top: 10%;
+            border-radius: 10px;
+            box-shadow: 0 0 10px 10px black;
+            box-sizing: border-box;
+            color: rgb(255, 221, 0);
+            padding: 20px;
 }
 
 body{
@@ -23,4 +33,16 @@ body{
     font-family: cursive;
     border-color: brown;
     background-image: url('p4.jpg');
+}
+.btn{
+    width: 80px;
+    height: 30px;
+    background-color: rgb(255, 221, 0);
+    border-radius: 10px;
+    /* border-color: brown; */
+    color: black;
+    /* font-family: cursive; */
+    font-size: 15px;
+    /* font-weight: bold; */
+
 }
